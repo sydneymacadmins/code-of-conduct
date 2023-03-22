@@ -22,7 +22,9 @@
 
 - Do not engage in any unethical practices such as bribery or coercion.
 
-- Interact with attendees in a manner that is respectful and professional.
+- Interact with attendees in a manner that is respectful and professional. This includes but is not limited to:
+	- Making false or misleading statements or claims about their organisation or individuals performance, qualifications or experience.
+	- Behaving in a manner to interfere with another business's customers or employees such as via overly aggressive marketing behaviour.
 
 - Confidentiality: All sponsors agree to maintain the confidentiality of private information about attendees of events. This includes names, addresses, phone numbers, email addresses, and any other personal information.
 
@@ -43,3 +45,7 @@ Respond promptly and appropriately to reports of harassment or unacceptable beha
 This code of conduct is subject to change at any time and may be updated as necessary. The event organizers reserve the right to ask anyone who violates this code of conduct to leave and be asked not to return to future events.
 
 By participating in this event, you agree to follow this code of conduct and support our efforts to create a safe and inclusive environment for everyone.
+
+###### Complaints;
+
+Any complaints should be directed to any of the event organizers. All complaints will remain confidential and will be taken seriously.
